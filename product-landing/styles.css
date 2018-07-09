@@ -29,9 +29,10 @@ body {
 }
 .lorem {
   display: flex;
-  
+  flex-direction: column;
+
 }
 
 .ipsum {
-
+  flex: 2 2 150px;
 }
